@@ -234,8 +234,8 @@ button.disabled:hover {
 'use strict';
 
 var items = [
-    {id: 'russell', name: 'Russell Westbrook', image: ''},
-    {id: 'kevin', name: 'Kevin Durant', image: ''},
+    {id: 'russell', name: 'Russell Westbrook'},
+    {id: 'kevin', name: 'Kevin Durant'},
     {id: 'nick', name: 'Nick Collison', image: ''},
     {id: 'serge', name: 'Serge Ibaka', image: ''},
     {id: 'steven', name: 'Steven Adams', image: ''},
