@@ -234,7 +234,7 @@ button.disabled:hover {
 'use strict';
 
 var items = [
-    {id: 'russell', name: 'Russell Westbrook', image: ''},
+    {id: 'russell', name: 'Russell Westbrook', image: 'https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3468.png&w=350&h=254'},
     {id: 'kevin', name: 'Kevin Durant', image: ''},
     {id: 'nick', name: 'Nick Collison', image: ''},
     {id: 'serge', name: 'Serge Ibaka', image: ''},
