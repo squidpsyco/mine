@@ -261,7 +261,7 @@ var items = [
     {id: 'luguentz', name: 'Luguentz Dort', image: ''},
     {id: 'jeremy', name: 'Jeremy Lamb', image: ''},
     {id: 'victor', name: 'Victor Oladipo', image: ''},
-    {id: 'chrisp', name: 'Chris Paul', image: ''},
+    {id: 'chrispaul', name: 'Chris Paul', image: ''},
     {id: 'hamidou', name: 'Hamidou Diallo', image: ''},
     {id: 'nerlens', name: 'Nerlens Noel', image: ''},
     {id: 'derek', name: 'Derek Fisher', image: ''},
