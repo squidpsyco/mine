@@ -234,7 +234,6 @@ button.disabled:hover {
 'use strict';
 
 var items = [
-    
     {id: 'russell', name: 'Russell Westbrook', image: ''},
     {id: 'kevin', name: 'Kevin Durant', image: ''},
     {id: 'nick', name: 'Nick Collison', image: ''},
@@ -308,8 +307,8 @@ var items = [
     {id: 'tony', name: 'Tony Bradley', image: ''},
     {id: 'markieff', name: 'Markieff Morris', image: ''},
     {id: 'george', name: 'George Hill', image: ''},
-    {id: 'josh', name: 'Josh Hall', image: ''},
-    {id: 'sebastion', name: 'Sebastian Telfair', image: ''},
+    {id: 'joshh', name: 'Josh Hall', image: ''},
+    {id: 'Sebastian', name: 'Sebastian Telfair', image: ''},
     {id: 'etan', name: 'Etan Thomas', image: ''},
     {id: 'jaylen', name: 'Jaylen Hoard', image: ''},
     {id: 'shaun', name: 'Shaun Livingston', image: ''},
@@ -334,7 +333,7 @@ var items = [
     {id: 'kevinh', name: 'Kevin Hervey', image: ''},
     {id: 'ryan', name: 'Ryan Gomes', image: ''},
     {id: 'nate', name: 'Nate Robinson', image: ''},
-    {id: 'danielh', name: 'Daniel Hamilton', image: ''}
+    {id: 'dariusb', name: 'Darius Bazley', image: ''}
 
 ];
 
