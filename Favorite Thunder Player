@@ -208,7 +208,7 @@ button.disabled:hover {
 <body>
 <h1>Picker</h1>
 
-<p>You can include any content you want here.</p>
+<p>Pick your favorite players</p>
 
 <div id="container">
 
@@ -234,6 +234,7 @@ button.disabled:hover {
 'use strict';
 
 var items = [
+    
     {id: 'russell', name: 'Russell Westbrook', image: ''},
     {id: 'kevin', name: 'Kevin Durant', image: ''},
     {id: 'nick', name: 'Nick Collison', image: ''},
@@ -334,6 +335,7 @@ var items = [
     {id: 'ryan', name: 'Ryan Gomes', image: ''},
     {id: 'nate', name: 'Nate Robinson', image: ''},
     {id: 'danielh', name: 'Daniel Hamilton', image: ''}
+
 ];
 
 var myPicker = new picker.Picker({
