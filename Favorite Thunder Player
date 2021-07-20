@@ -334,7 +334,6 @@ var items = [
     {id: 'ryan', name: 'Ryan Gomes', image: ''},
     {id: 'nate', name: 'Nate Robinson', image: ''},
     {id: 'dariusb', name: 'Darius Bazley', image: ''}
-
 ];
 
 var myPicker = new picker.Picker({
